@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: sitemap.xml
+Sitemap: https://olaoluwa456.github.io/Netigit/sitemap.xml
